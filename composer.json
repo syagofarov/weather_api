@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-pgsql": "*",
+        "ramsey/uuid": "^4.7",
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
