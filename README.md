@@ -5,7 +5,6 @@
 - **Хостинг:** [https://cp.sweb.ru/main](SpaceWeb)
 - **База данных:** PostgreSQL
 - **Язык программирования:** PHP8.3
-- **Ссылка на сайт:** [http://saviorcheg.temp.swtest.ru/](http://saviorcheg.temp.swtest.ru/)
 
 ## Описание проекта
 
